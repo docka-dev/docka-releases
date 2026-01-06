@@ -1,0 +1,6 @@
+0e5e356c9d4f9f189f8e12c5eb1b190c3d276c2f048a3faadbf7cd3bb3d14b41  docka-darwin-amd64.tar.gz
+7852b630a5ce14b2d19fc00f5d01e811c311791e51681de24bea1ef1cc5aa123  docka-darwin-arm64.tar.gz
+918fdd7c76652193a0c10aec908c4074033aed1bd1d2d81af568a0df67d3e9b6  docka-linux-amd64.tar.gz
+ff2bb75408444b04b36b26458e4fe2828c42f6b78743b5193b099a912d418f0b  docka-linux-arm64.tar.gz
+db6f985f3c78cc18ccd0ce82c8cf0a91944ad8314bb3932377fc4f0521d39226  docka-windows-amd64.zip
+6eb29c0f0f2280bc125faacf7945abe95fc375d55b3f344ec4e0eb6a746d3da6  docka-windows-arm64.zip

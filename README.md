@@ -35,17 +35,34 @@ scoop install docka
 | Windows | x64 | [docka-windows-amd64.zip](https://github.com/docka-dev/docka-releases/releases/latest/download/docka-windows-amd64.zip) |
 | Windows | ARM64 | [docka-windows-arm64.zip](https://github.com/docka-dev/docka-releases/releases/latest/download/docka-windows-arm64.zip) |
 
-## Self-Hosted Edition
+## Distributed Edition
 
-This repository contains the **self-hosted edition** of Docka with:
+This repository contains the **distributed edition** of Docka with:
 
-- Unlimited servers
-- Unlimited apps
-- Unlimited databases
-- All core features included
-- Free forever
+- **docka** - CLI tool for managing Docka
+- **docka-server** - Self-hosted server component
+- **docka-agent** - Agent for managed servers
 
-For managed hosting and team features, visit [docka.dev](https://docka.dev).
+### Included Features
+
+- Server management
+- App deployments
+- Database management
+- Core infrastructure features
+
+For the full SaaS platform with team collaboration, billing, and premium features, visit [docka.dev](https://docka.dev).
+
+## Repository Structure
+
+This repository only contains SHA256 checksums for release verification:
+
+```
+v0.0.1/SHA256SUMS.txt
+v0.0.2/SHA256SUMS.txt
+v0.0.3/SHA256SUMS.txt
+```
+
+Binary releases are available from the [Releases](https://github.com/docka-dev/docka-releases/releases) page.
 
 ## Documentation
 
