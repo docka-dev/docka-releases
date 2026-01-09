@@ -54,15 +54,28 @@ For the full SaaS platform with team collaboration, billing, and premium feature
 
 ## Repository Structure
 
-This repository only contains SHA256 checksums for release verification:
+This repository contains SHA256 checksums for release verification:
 
 ```
 v0.0.1/SHA256SUMS.txt
 v0.0.2/SHA256SUMS.txt
 v0.0.3/SHA256SUMS.txt
+v0.0.4/SHA256SUMS.txt
+v0.0.5/SHA256SUMS.txt
+v0.0.6/SHA256SUMS.txt
 ```
 
 Binary releases are available from the [Releases](https://github.com/docka-dev/docka-releases/releases) page.
+
+## Verify Downloads
+
+```bash
+# Download the checksum file for your version
+curl -fsSL https://github.com/docka-dev/docka-releases/releases/download/v0.0.6/SHA256SUMS.txt -o SHA256SUMS.txt
+
+# Verify downloaded binary
+sha256sum -c SHA256SUMS.txt --ignore-missing
+```
 
 ## Documentation
 
