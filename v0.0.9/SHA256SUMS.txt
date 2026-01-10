@@ -1,0 +1,2 @@
+c62ad839534e277897e92b62c11213383a1bd4bfe46dbfa14ed9c8f5cd36392f  docka-agent-linux-amd64.tar.gz
+c6450a42b9fc42811a040b06473d6defec47ab2bbf6ea3021b963d09cf322e69  docka-agent-linux-arm64.tar.gz
